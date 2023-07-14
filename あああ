@@ -1,1 +1,18 @@
-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
+コピペ用
+URL
+chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/manifest.json
+
+Consoleに打つやつ
+chrome.management.setEnabled('フィルタリングID', false)
+
+フィルタリングID(自分のものを選んでください)
+i-FILTER@Cloud Agent
+bkfmfndedcalgdgaklieojjfbbjpmijd
+InterCLASS Cloud 学習者 拡張機能
+hdjemondfhcgoefnkcmoomjfeiiapinf
+InterCLASS Filtering Service
+jbddgjglgkkneonnineaohdhabjbgopi
+InterSafe GatewayConnection Agent
+ecjoghccnjlodjlmkgmnbnkdcbnjgden
+ロイロWebフィルター
+pabjlbjcgldndnpjnokjakbdofjgnfia
