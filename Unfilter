@@ -7,12 +7,5 @@ chrome.management.setEnabled('フィルタリングID', false)
 
 フィルタリングID(自分のものを選んでください)
 i-FILTER@Cloud Agent
-bkfmfndedcalgdgaklieojjfbbjpmijd
-InterCLASS Cloud 学習者 拡張機能
-hdjemondfhcgoefnkcmoomjfeiiapinf
-InterCLASS Filtering Service
-jbddgjglgkkneonnineaohdhabjbgopi
-InterSafe GatewayConnection Agent
-ecjoghccnjlodjlmkgmnbnkdcbnjgden
-ロイロWebフィルター
-pabjlbjcgldndnpjnokjakbdofjgnfia
+
+javascript:opener.chrome.developerPrivate.updateExtensionConfiguration({extensionId: new URLSearchParams(new URL(opener.location.href).search).get("id"), fileAccess: false})
